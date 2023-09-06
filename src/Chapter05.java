@@ -1,6 +1,7 @@
 
 public class Chapter05 {
    public static void main(String[] args) {
+
 	   String name = "Yukari"; // string型の変数の宣言＆代入
 	   System.out.println(name); // 出力
 	   
